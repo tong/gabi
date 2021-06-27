@@ -6,11 +6,14 @@ arch-install-scripts
 archinstall
 base
 cloud-init
+clang
 cmake
 dhclient
 dhcpcd
 ethtool
 git
+haxe
+htop
 less
 linux
 make
@@ -21,10 +24,13 @@ mkinitcpio
 mkinitcpio-archiso
 nano
 ncmpc
+ncurses
+neko
 nginx
 ninja
 nmap
 nodejs
+npm
 ntfs-3g
 openssh
 pv
@@ -40,6 +46,7 @@ tmux
 usbutils
 vim
 virtualbox-guest-utils-nox
+w3m
 wireless_tools
 wpa_supplicant
 zsh
