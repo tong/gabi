@@ -2,7 +2,6 @@
 VERSION = v0
 ARCH = x86_64
 # USB_DEV = /dev/sde
-USB_DEV =
 
 SRC := $(shell find src/ -type f)
 ISO = iso/gabi-$(VERSION)-$(ARCH).iso
