@@ -1,5 +1,5 @@
 
-VERSION = v0
+VERSION = v1
 ARCH = x86_64
 # USB_DEV = /dev/sde
 
