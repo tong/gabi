@@ -9,7 +9,7 @@ ISO = iso/gabi-$(VERSION)-$(ARCH).iso
 all: iso
 
 $(ISO): $(SRC)
-	sudo mkarchiso -v -w tmp/ -o iso/ src/
+	mkarchiso -v -w tmp/ -o iso/ src/
 
 iso: $(ISO)
 
