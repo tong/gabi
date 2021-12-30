@@ -1,4 +1,6 @@
 
-if [ -d "$HOME/bin" ];
-    then PATH="$HOME/bin:$PATH"
+export EDITOR='nano'
+
+if [ -d "$HOME/.scripts" ];
+	then PATH="$HOME/.scripts:$PATH"
 fi
