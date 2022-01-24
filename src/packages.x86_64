@@ -8,10 +8,12 @@ clang
 cloud-init
 cmake
 coreutils
+curl
 dhclient
 dhcpcd
 ethtool
 ffmpeg
+fzf
 git
 haxe
 htop
@@ -27,7 +29,6 @@ mkinitcpio
 mkinitcpio-archiso
 nano
 neko
-ninja
 nmap
 ntfs-3g
 openssh
@@ -36,8 +37,6 @@ pv
 qemu-guest-agent
 ranger
 rsync
-screen
-sdl2
 sshfs
 sudo
 syslinux
@@ -45,10 +44,12 @@ systemd-resolvconf
 tcpdump
 terminus-font
 tmux
+unzip
 usbutils
 vim
 vulkan-headers
 vulkan-tools
 w3m
-youtube-dl
+xz
+zip
 zsh
